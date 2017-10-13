@@ -6,7 +6,7 @@
 
 Almost all of us use youtube for our music purposes, whether it is a new single released by Eminem or an old classic by Queen. 
 
-Scenario : You need to travel the next day and you realise that the `diff` between your offline mobile playlist and youtube playlist is too large.
+**Scenario**: You need to travel the next day and you realise that the `diff` between your offline mobile playlist and youtube playlist is too large.
 
 Now you have to use an online mp3 converter to convert all the songs one by one, and then connect your device via USB to paste all the music. That too without the metadata.
 
@@ -19,7 +19,7 @@ There is a need for a tool which would directly download and convert the video, 
 * Download the best available audio, or video (by `--video` option) in common mobile player compatible extensions.
 * Playlists can also be downloaded.
 * Adds metadata automatically from the title.
-* Add a preffered device to send music, or override it with `--newdevice` option.
+* Add a preferred device to send music, or override it with `--newdevice` option.
 * Delete the downloaded video/music file from the computer via `--delete` option.
 
 ## How to use?
@@ -40,7 +40,7 @@ Pushbullet is a great tool for sending text messages, links, files and seeing ph
 
   * Clone the repository via `git clone https://github.com/Parth-Vader/MobOff.git`.
   * `cd MobOff`
-  * `sudo pip3 install .`
+  * `sudo pip3 install .` (or just `pip3 install .` for Windows users)
 
 3. You need to initialise with some of your information.
   
@@ -94,7 +94,7 @@ Pushbullet is a great tool for sending text messages, links, files and seeing ph
 
 ## Contribute
 
-This is a very young project. If you have got any suggestions for new features or improvements, please comment over here. Pull Requests are most welcome !
+This is a very young project. If you have got any suggestions for new features or improvements, please comment over here. Pull Requests are most welcome!
 
 ❤
 
